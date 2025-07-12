@@ -31,3 +31,33 @@ list-style: none;
     width: 1350px;
     height: 550spx;
 }
+/* section style */
+.first-section{
+    display: flex;
+    max-width: 1140px;
+    justify-content: space-between;
+    margin: 0;
+    padding: 62.5px;
+    padding-left: 141px;
+    padding-right: 141px;
+    background-color: white;
+    border-radius: 10px;
+}
+.section-title{
+    
+}
+.section-sub-title{
+color: #252432;
+font-size: large;
+font-weight: 500;
+}
+img{
+    border-radius: 20px;
+}
+.btn-secondary{
+    padding: 20px;
+    background-color: #4E47FF;
+    font-weight: 700;
+    color: white;
+    border-radius: 11px;
+}
