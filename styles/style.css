@@ -1,0 +1,33 @@
+nav h2{
+    font-size: 34px;
+    color: #4E47FF; 
+    font-weight: 900;
+}
+.btn-primary{
+background-color: #4E47FF;
+color: white;
+text-decoration: none;
+padding: 12px 36px 12px 36px;
+border-radius: 5px;
+font-size: large;
+font-weight: 600; 
+list-style: none;
+}
+.nav-style{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1140px;
+    padding: 100px; 
+    padding-bottom:50px;
+}
+.banner-word{
+    color: #252432;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 900; padding-bottom: 150px;
+}
+.header{
+    background-image: url(../Assets/Hero-bg.png);
+    width: 1350px;
+    height: 550spx;
+}
