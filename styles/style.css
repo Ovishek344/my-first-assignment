@@ -61,3 +61,27 @@ img{
     color: white;
     border-radius: 11px;
 }
+/* section-two-title */
+.section-two-title{
+    text-align: center;
+}
+.num-section{
+    display: flex;
+    text-align: center;
+    margin-left: 375px;
+    gap: 38px;
+}
+.section-num{
+    font-size: xx-large;
+    color: #4E47FF;
+
+}
+.section-two-styles{
+    border-radius: 30px;
+    background-color: #2e2432;
+    border-width: 800px;
+    margin-left: 141px;
+    margin-right: 159px;
+    
+    
+}
