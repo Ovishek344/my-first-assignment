@@ -78,10 +78,47 @@ img{
 }
 .section-two-styles{
     border-radius: 30px;
-    background-color: #2e2432;
+    background-color: #BAB8FF;
     border-width: 800px;
     margin-left: 141px;
     margin-right: 159px;
-    
-    
+}
+.section-three-title{
+    text-align: center;
+    padding-top: 110px;
+}
+.review{
+    display: flex;
+    gap: 20px;
+    padding-top: 15px;
+}
+.section-three{
+    margin-left: 141px;
+    margin-right: 159px;
+    border-width: 800px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.people{
+    background-color: #F2EDED;
+    border-radius: 10px;
+}
+/* setion-four-style */
+.section-four{
+    text-align: center;
+    margin-top: 71px;
+    margin-left: 140px;
+    margin-right: 150px;
+    margin-bottom: 71px;
+    background-color: linen;
+    border-radius: 20px;
+}
+.img{ padding-top: 30px;
+padding-bottom: 50px;
+border-bottom-left-radius: 25px;}
+.section4-title{
+    font-weight: 900;
+}
+.section4-description{
+    color: #000000;
 }
