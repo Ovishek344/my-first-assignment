@@ -122,3 +122,32 @@ border-bottom-left-radius: 25px;}
 .section4-description{
     color: #000000;
 }
+/* footer style */
+footer{
+    padding: 130px 230px;
+    display: flex;
+    justify-content: space-between;
+}
+.fotter-collum{
+    width: 50%;
+}
+footer input[type="text"] ,footer input[type="email"] ,footer textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: #D6DDED;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+.footer-title{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.background{
+    background-color: #F5F8FF;
+}
+.last-disk{
+    text-decoration: none;
+}
